@@ -2,7 +2,7 @@
 
 ## Un poco sobre mí ☺
 
-- 🇦🇷 Soy Argentino
+- 🇦🇷  Soy Argentino
 - 🍰 23 años
 - 💻 Estudiando Desarrollador web full stack
 - 🦾 Me apasiona la tecnologia 
