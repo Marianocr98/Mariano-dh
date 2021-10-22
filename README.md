@@ -1,6 +1,6 @@
-### Hello i am Mariano 👋
+# Hello i am Mariano 👋
 
-## about me ☺
+### about me ☺
 
 - 🇦🇷 I'm Argentinean
 - 🍰 I am 23 years old
