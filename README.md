@@ -1,8 +1,8 @@
-### Hola Soy Mariano 👋
+### Hello i am Mariano 👋
 
-## Un poco sobre mí ☺
+## about me ☺
 
-- 🇦🇷  Soy Argentino
-- 🍰 23 años
-- 💻 Estudiando Desarrollador web full stack
-- 🦾 Me apasiona la tecnologia 
+- 🇦🇷 I'm Argentinean
+- 🍰 I am 23 years old
+- 💻 Full stack web developer student
+- 🦾 I am passionate about technology 
